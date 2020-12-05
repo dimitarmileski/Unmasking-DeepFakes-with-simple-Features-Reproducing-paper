@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Dimitar Mileski}
+((* endblock author *))
+
+((* block title *))
+\title{Mi-IKT First Partail Exam}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{ieee}
+\bibliography{ref}
+((* endblock bibliography *))
