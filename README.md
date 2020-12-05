@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dimitarmileski/Unmasking-DeepFakes-with-simple-Features-Reproducing-paper/HEAD)
 
 ## Research paper
-- Paper PDF: https://arxiv.org/pdf/2003.01826.pdf   
+- Paper PDF: https://arxiv.org/pdf/1911.00686.pdf   
 - Code: https://github.com/cc-hpc-itwm/DeepFakeDetection   
 
 ## Reproduced reasearch paper
